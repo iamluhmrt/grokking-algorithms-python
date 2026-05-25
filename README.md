@@ -21,7 +21,7 @@ Python implementations of the algorithms and exercises from the book **Grokking 
 
 ## Stack
 
-- Python 3.x
+- Python 3.13.13
 - No external dependencies — standard library only
 
 ## Running
